@@ -1,0 +1,187 @@
+.header1, button {
+  background-color:rgb(255, 255, 255);
+  border: None; 
+  position: absolute;
+  font-weight: bold;
+  font-size: 20px;
+  height: 5vh;
+  width: 10vh;
+  top: 5%;
+  left: 80%;
+  cursor: pointer;
+}
+
+.header2, button {
+  position: absolute;
+  background-color:rgb(255, 255, 255);
+  border: None; 
+  font-weight: bold;
+  font-size: 20px;
+  height: 5vh;
+  width: 10vh;
+  top: 5%;
+  left: 90%;
+  cursor: pointer;
+}
+
+.Intro {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+}
+.Intro2 {
+  position: absolute;
+  top: 30%;
+  left: 67%;
+}
+.line1 {
+  position: absolute;
+  top: 45%;
+  left: 58%;
+}
+
+.line2 {
+  position: absolute;
+  top: 48%;
+  left:57%;
+}
+
+.line3 {
+  position: absolute;
+  top: 51%;
+  left: 57%;
+}
+
+.line4 {
+  position: absolute;
+  top: 54%;
+  left: 58%;
+}
+
+.line5 {
+  position: absolute;
+  top: 57%;
+  left: 64%;
+}
+
+.box {
+  width: 200px;         
+  height: 38px;        
+  border: 2px solid black; 
+  border-radius: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 65%;
+  left: 62%;
+}
+
+.join {
+  position: absolute;
+  top: 65%;
+  left: 67.5%;
+}
+
+.imgsmall {
+  width: 130px;         
+  height: 100px;
+  position: absolute;
+  top: 3%;
+  left: 3%
+}
+
+.searchbox {
+  width: 700px;
+  height: 25px;
+  position: absolute;
+  border: 1px solid black; 
+  border-radius: 20px;
+  font-size: 18px;
+  padding: 10px;
+  top: 6%;
+  left: 15%;
+}
+
+.imgbig {
+  width: 380px;         
+  height: 300px;
+  position: absolute;
+  top: 25%;
+  left: 10%
+}
+
+.companyname {
+  position: absolute;
+  top: 65%;
+  left: 16%;
+}
+
+.searchimg {
+  position: absolute;
+  width: 33px;         
+  height: 30px;
+  top: 7%;
+  left: 16%;
+}
+
+.ximg {
+  position: absolute;
+  width: 33px;         
+  height: 30px;
+  top: 7%;
+  left: 70%;
+}
+
+.mainStock{
+  position: absolute;
+  top: 20%;
+  left:15%;
+}
+
+.articles{
+  position:absolute;
+  top:20%;
+  left:50%;
+}
+
+.betterline {
+  position: absolute;
+  max-width: 550px;
+  top: 40%;
+  left: 52%;
+  line-height: 1.9;
+
+}
+
+.graph {
+  position: absolute;
+  top: 50%;
+  left: -2%;
+
+}
+
+
+.results {
+  text-align: center;
+  margin: 20px;
+}
+
+.graph-container {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.graph-title {
+  margin-bottom: 40px;
+}
+
+.sentiment-container {
+  margin-top: 20px;
+}
+
+.sentiment-container h3 {
+  margin-top: 20px;
+}
+
+.sentiment-container p {
+  margin: 5px 0;
+}
