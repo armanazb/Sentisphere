@@ -4,3 +4,7 @@ Sentisphere was developed as a submission for HawkHacks 2024, a hackathon at Wil
 
 
 ![image](https://github.com/armanazb/Sentisphere/assets/144175692/7f6037c5-8323-4ffb-bd39-bd4c66811ad3)
+
+Slideshow Presentation:
+
+https://docs.google.com/presentation/d/1celA8NsdhbAuzEJiE4nhPIzPoj-YIgtvDETam95CL-4/edit?usp=sharing
